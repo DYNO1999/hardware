@@ -1,6 +1,6 @@
 # Datacenter
 
-Un data center, es una construcción de gran tamaño donde se albergan los equipos electrónicos necesarios para mantener una red de ordenadores, el Mare Nostrum 4 (Barcelona) es uno de los mejores datacenter de europa.
+Un datacenter, es una construcción de gran tamaño donde se albergan los equipos electrónicos necesarios para mantener una red de ordenadores, el Mare Nostrum 4 (Barcelona) es uno de los mejores datacenter de Europa.
 
 __Información tecnica:__ [BSC](https://www.youtube.com/watch?time_continue=2&v=BV7gG95ejYs)
 
