@@ -6,7 +6,7 @@ __Información tecnica:__ [BSC](https://www.youtube.com/watch?time_continue=2&v=
 
 ![Image](https://www.bsc.es/sites/default/files/public/styles/bscw2_-_simple_crop_style/public/bscw2/pages/innovation-and-services/mn4-icts-feder.jpg?itok=66njPKnz&sc=5a0cce8b9fc7a8734a6ef1ccb83241f2)
 
-### -Arquitectura 
+### Arquitectura 
 
   * Habitación refrigerada.
   * Seguridad física.
@@ -25,7 +25,7 @@ Al igual que en un host para una mayor seguridad debemos confiar mas en empresas
 
 ### QNAP - Synology
 
-Son servidores externos con sistema operativo __Linux__, __compatibles__ y __optimos__, enfocados en empresas con una plantilla mediana o pequeña de empleados.
+Son servidores externos con sistema operativo __Linux__, __compatibles__ y __óptimos__, enfocados en empresas con una plantilla mediana o pequeña de empleados.
 
 ### Webdav: 
 
