@@ -12,6 +12,8 @@ __Información tecnica:__ [BSC](https://www.youtube.com/watch?time_continue=2&v=
   * Seguridad física.
   * Acceso restringido (Solo el personal autorizado puede acceder).
   * Acceso remoto para trabajo.
+  
+  ***
 
 ### Hosting externo:
 
