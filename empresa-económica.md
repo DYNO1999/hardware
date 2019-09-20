@@ -1,5 +1,7 @@
 # Empresa económica y óptima.
 
+![Image](https://image.flaticon.com/icons/png/512/69/69558.png)
+
 ### Para poder crear una empresa optima y segura deberemos:
 
 __1)__ Contratar un dominio barato, un _.com_ sera mas facil de recordar que un dominio _.gq_.
